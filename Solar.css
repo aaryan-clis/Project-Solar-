@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    color: cadetblue;
+    text-align: center;
+    background-color: beige;
+    font-size: 43px;
+}
+h2{
+    color: darkslateblue;
+    background-color: floralwhite;
+    font-size: 40px;
+}
+h3{
+    color: darkseagreen;
+   
+    text-align: center;
+}
+img{
+    width: 500px;
+    margin-left: 500px;
+}
